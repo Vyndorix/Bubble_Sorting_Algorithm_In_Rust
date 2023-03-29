@@ -1,6 +1,6 @@
 # Bubble_Sorting_Algorithm_In_Rust
 Bubble sorting is explained here: https://en.wikipedia.org/wiki/Bubble_sort
-
+STAR THIS NOW
 But here is some of it from that page: 
 
                                                    Bubble Sorting
